@@ -1,6 +1,6 @@
 # GoRestaurant
 
-GoRestaurant é uma plataforma web e móvel, desenvolvida no Bootcamp da GoStack 14 - [Rocketseat](https://rocketseat.com.br/), que permite a exibição, criação, remoção e atualização (CRUD) de pratos de comida.
+GoRestaurant é uma plataforma web e móvel que foi desenvolvida no Bootcamp da GoStack 14 da [Rocketseat](https://rocketseat.com.br/). A plataforma permite a exibição, criação, remoção e atualização (CRUD) de pratos e pedidos de comida.
 
 ![](https://imgur.com/j2124oL.png)
 
